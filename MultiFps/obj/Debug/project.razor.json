@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "f:\\유니티게임파일\\개인\\MultiFps\\PunDemos.DemoSlotcarEditor.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
